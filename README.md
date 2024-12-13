@@ -1,5 +1,4 @@
-# -Power-BI-Project-
-
+# 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝟑𝟔𝟎
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 This project centers on 𝐀𝐭𝐥𝐢𝐐 𝐇𝐚𝐫𝐝𝐰𝐚𝐫𝐞, a fast-growing hardware company looking to enhance its analytics capabilities. By converting raw data into actionable insights, I analyzed critical business metrics such as 𝐍𝐞𝐭 𝐒𝐚𝐥𝐞𝐬, 𝐆𝐫𝐨𝐬𝐬 𝐌𝐚𝐫𝐠𝐢𝐧, 𝐚𝐧𝐝 𝐍𝐞𝐭 𝐏𝐫𝐨𝐟𝐢𝐭. Additionally, I developed advanced visualizations for key business areas, including 𝐅𝐢𝐧𝐚𝐧𝐜𝐞, 𝐒𝐚𝐥𝐞𝐬, 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠, 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧, and 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝𝐬.
 
